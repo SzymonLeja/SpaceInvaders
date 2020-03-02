@@ -1,2 +1,3 @@
-# SpaceInvaders
+# Space Invaders na dwóch graczy
+#
  
